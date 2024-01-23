@@ -3,9 +3,11 @@
 Currency Converter using FreeCurrencyAPI
 
 Overview
+
 This is a simple Python script that utilizes the FreeCurrencyAPI to convert currency values. Users can input a base currency, and the script will provide exchange rates for a set of predefined currencies.
 
 Prerequisites
+
 Before you begin, ensure you have the following:
 
 Python 3.x installed on your machine.
@@ -34,6 +36,7 @@ python currency_converter.py
 Follow the prompts to enter the base currency. Type 'q' to exit.
 
 Example
+
 bash
 Copy code
 Enter the base currency (q for quit): USD
@@ -44,8 +47,10 @@ AUD: 1.38
 CNY: 6.45
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
+
 FreeCurrencyAPI for providing the currency conversion API.
 Feel free to contribute or report issues!
